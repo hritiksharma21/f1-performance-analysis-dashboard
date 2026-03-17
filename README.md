@@ -47,7 +47,12 @@ This project focuses on evaluating performance based on execution, efficiency, a
 ## 🛠 Tools Used
 - Power BI  
 - DAX  
-- Excel  
+- Excel
+
+  ## 📥 Download Dashboard
+
+Due to file size limitations, the Power BI file is not uploaded here.  
+You can request access or view the dashboard through shared visuals.
 
 ---
 
