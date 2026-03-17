@@ -1,5 +1,7 @@
 # 📊 Formula 1 Performance Analysis Dashboard
 
+> Execution-based analysis of Formula 1 performance using Power BI (1950–2025)
+
 ## 🔍 Overview
 This project analyzes Formula 1 performance using historical data (1950–2025) to evaluate drivers, constructors, and championships beyond traditional metrics such as wins and total points.
 
