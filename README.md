@@ -11,6 +11,14 @@ This project focuses on evaluating performance based on execution, efficiency, a
 
 ---
 
+### 🏠 Home Page
+- Provides an overview of the project and navigation to all dashboards  
+- Introduces the purpose of analyzing performance beyond wins and points  
+
+![Home Page](images/home.png)
+
+---
+
 ## 📊 Dashboard Structure
 
 ### 🚗 Driver Performance
