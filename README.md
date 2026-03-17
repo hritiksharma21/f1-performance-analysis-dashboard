@@ -2,72 +2,81 @@
 
 > Execution-based analysis of Formula 1 performance using Power BI (1950–2025)
 
+---
+
 ## 🔍 Overview
-This project analyzes Formula 1 performance using historical data (1950–2025) to evaluate drivers, constructors, and championships beyond traditional metrics such as wins and total points.
+This project analyzes historical Formula 1 data (1950–2025) to evaluate performance across drivers, constructors, and championships beyond traditional metrics such as wins and total points.
 
 ---
 
 ## 🎯 Objective
-Traditional metrics like wins and points are influenced by car performance, season length, and era differences.  
-This project focuses on evaluating performance based on execution, efficiency, and consistency.
+Traditional metrics like wins and points are influenced by factors such as car performance and era differences.  
+This project focuses on evaluating how effectively performance is executed during races using normalized and comparative measures.
 
 ---
 
 ## 📊 Dashboard Structure
 
----
-
-
 ### 🏠 Home Page
-- Provides an overview of the project and navigation to all dashboards  
-- Introduces the purpose of analyzing performance beyond wins and points  
+- Provides an overview of the project and navigation across dashboards  
+- Introduces the purpose and analytical approach  
 
 ![Home Page](images/home.png)
 
 ---
 
 ### 🚗 Driver Performance
-- Measures how drivers improve positions during races  
-- Evaluates overtaking efficiency and consistency  
+- Evaluates how drivers convert starting positions into race outcomes  
+- Measures overtaking efficiency and finishing consistency  
 
 ![Driver Dashboard](images/driver_dashboard.png)
 
 ---
 
 ### 🏭 Constructor Performance
-- Evaluates team efficiency using points per race  
-- Measures reliability using finish rate  
+- Analyzes team performance using average points per race  
+- Measures reliability through mechanical finish rate  
 
 ![Constructor Dashboard](images/constructor_dashboard.png)
 
 ---
 
 ### 🏆 Championship Analysis
-- Shows how competitive each season was  
-- Analyzes how often winners change and dominance patterns  
+- Examines competitiveness across seasons  
+- Analyzes dominance and frequency of champion changes  
 
 ![Championship Dashboard](images/championship_dashboard.png)
 
 ---
 
 ### 📌 Conclusion
-- Highlights key performance patterns across drivers, teams, and eras  
+- Summarizes performance patterns across drivers, teams, and eras  
 
 ![Conclusion](images/conclusion.png)
+
+---
+
+## ▶️ How to Use
+- Use filters to select specific drivers, constructors, or seasons  
+- Navigate across dashboards to compare performance at different levels  
+- Analyze KPIs to understand efficiency, consistency, and competitiveness  
+
+---
+
+## ❓ Key Questions Answered
+- Which drivers improve positions most effectively during races?  
+- Which constructors balance efficiency and reliability best?  
+- How competitive has Formula 1 been across different eras?  
 
 ---
 
 ## 🛠 Tools Used
 - Power BI  
 - DAX  
-- Excel
-
-  ## 📥 Download Dashboard
-
-Due to file size limitations, the Power BI file is not uploaded here.  
-You can request access or view the dashboard through shared visuals.
+- SQL  
+- Excel  
 
 ---
 
 ## 📌 Key Insight
-This project shows that performance is better understood by how effectively opportunities are used during races, rather than relying only on final results like wins or points.
+Performance in Formula 1 is better understood by how effectively opportunities are converted during races, rather than relying only on final outcomes such as wins or points.
