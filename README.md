@@ -19,7 +19,7 @@ This project focuses on evaluating how effectively performance is executed durin
 
 ### 🏠 Home Page
 - Provides an overview of the project and navigation across dashboards  
-- Introduces the purpose and analytical approach  
+- Introduces the analytical approach and purpose  
 
 ![Home Page](images/home.png)
 
@@ -27,7 +27,7 @@ This project focuses on evaluating how effectively performance is executed durin
 
 ### 🚗 Driver Performance
 - Evaluates how drivers convert starting positions into race outcomes  
-- Measures overtaking efficiency and finishing consistency  
+- Measures how effectively drivers overtake and maintain consistent finishing positions  
 
 ![Driver Dashboard](images/driver_dashboard.png)
 
@@ -43,14 +43,14 @@ This project focuses on evaluating how effectively performance is executed durin
 
 ### 🏆 Championship Analysis
 - Examines competitiveness across seasons  
-- Analyzes dominance and frequency of champion changes  
+- Analyzes dominance patterns and frequency of champion changes  
 
 ![Championship Dashboard](images/championship_dashboard.png)
 
 ---
 
 ### 📌 Conclusion
-- Summarizes performance patterns across drivers, teams, and eras  
+- Summarizes key performance patterns across drivers, teams, and eras  
 
 ![Conclusion](images/conclusion.png)
 
@@ -65,7 +65,7 @@ This project focuses on evaluating how effectively performance is executed durin
 
 ## ❓ Key Questions Answered
 - Which drivers improve positions most effectively during races?  
-- Which constructors balance efficiency and reliability best?  
+- Which constructors balance efficiency and reliability?  
 - How competitive has Formula 1 been across different eras?  
 
 ---
@@ -73,7 +73,6 @@ This project focuses on evaluating how effectively performance is executed durin
 ## 🛠 Tools Used
 - Power BI  
 - DAX  
-- SQL  
 - Excel  
 
 ---
